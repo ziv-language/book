@@ -1,0 +1,6 @@
+[book]
+authors = ["Miguel Cárdenas"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Ziv Programming Language"
